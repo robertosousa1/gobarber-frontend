@@ -47,7 +47,7 @@ module.exports = {
     'react-native/no-raw-text': 'off',
     'no-underscore-dangle': 'off',
     camelcase: 'off',
-
+   'react/jsx-props-no-spreading': 'off',
   },
   // settings: {
   //   'import/resolver': {
