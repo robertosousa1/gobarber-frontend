@@ -3,10 +3,10 @@ import { Router } from 'react-router-dom';
 
 import './config/ReactotronConfig';
 
-import Routes from '~/routes';
-import history from '~/service/history';
+import Routes from './routes';
+import history from './service/history';
 
-import GlobalStyle from '~/styles/global';
+import GlobalStyle from './styles/global';
 
 function App() {
   return (
